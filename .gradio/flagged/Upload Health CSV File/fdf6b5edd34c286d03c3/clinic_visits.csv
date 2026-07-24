@@ -1,0 +1,16 @@
+visit_id,patient_id,age,gender,department,diagnosis,visit_type,wait_time_min,cost_usd,admitted
+1001,P001,34,Female,General Medicine,Hypertension,New,18,80,No
+1002,P002,67,Male,Cardiology,Arrhythmia,Follow-up,42,220,Yes
+1003,P003,15,Female,Pediatrics,Asthma,New,25,60,No
+1004,P004,52,Male,Orthopedics,Back Pain,New,30,150,No
+1005,P005,73,Female,Cardiology,Heart Failure,Follow-up,55,500,Yes
+1006,P006,28,Female,Dermatology,Eczema,New,12,45,No
+1007,P007,61,Male,General Medicine,Diabetes,Follow-up,20,95,No
+1008,P008,9,Male,Pediatrics,Fever,New,35,50,No
+1009,P009,46,Female,Neurology,Migraine,New,27,180,No
+1010,P010,58,Male,Orthopedics,Arthritis,Follow-up,40,210,Yes
+1011,P011,39,Female,General Medicine,Anemia,New,16,70,No
+1012,P012,82,Female,Cardiology,Chest Pain,New,48,320,Yes
+1013,P013,22,Male,Dermatology,Acne,Follow-up,10,55,No
+1014,P014,65,Female,Neurology,Stroke Review,Follow-up,14,260,No
+1015,P015,31,Male,General Medicine,Flu,New,10,65,No

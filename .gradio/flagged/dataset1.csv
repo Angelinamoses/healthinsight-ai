@@ -1,0 +1,36 @@
+Upload Health CSV File,Analysis Report,Histogram,timestamp
+.gradio\flagged\Upload Health CSV File\fdf6b5edd34c286d03c3\clinic_visits.csv,"'
+Health Dataset Analysis Report
+=====================================
+
+Dataset Shape:
+Rows    : 15
+Columns : 10
+
+Missing Values:
+visit_id         0
+patient_id       0
+age              0
+gender           0
+department       0
+diagnosis        0
+visit_type       0
+wait_time_min    0
+cost_usd         0
+admitted         0
+dtype: int64
+
+Summary Statistics:
+        visit_id patient_id        age  gender        department     diagnosis visit_type wait_time_min    cost_usd admitted
+count       15.0         15       15.0      15                15            15         15          15.0        15.0       15
+unique                   15                  2                 6            15          2                                  2
+top                    P001             Female  General Medicine  Hypertension        New                                 No
+freq                      1                  8                 4             1          9                                 11
+mean      1008.0             45.466667                                                             26.8  157.333333         
+std     4.472136             22.161313                                                        14.438045  128.672711         
+min       1001.0                   9.0                                                             10.0        45.0         
+25%       1004.5                  29.5                                                             15.0        62.5         
+50%       1008.0                  46.0                                                             25.0        95.0         
+75%       1011.5                  63.0                                                             37.5       215.0         
+max       1015.0                  82.0                                                             55.0       500.0         
+",.gradio\flagged\Histogram\9c43c6e45b7e010087d5\histogram.png,2026-07-24 15:09:20.895608
